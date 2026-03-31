@@ -24,7 +24,7 @@ Focus: Building AI-driven decision systems combining LLMs, knowledge graphs, and
 
 ## Tech stack
 
-Python · LangChain · LangGraph · RAG · Power BI · SQL · scikit-learn · Pandas
+Python · LLMs · LangChain · LangGraph · RAG · Knowledge Graphs · FastAPI · Power BI · Machine Learning · Time Series Analysis · SQL · scikit-learn · Pandas
 
 ## Interests
 
