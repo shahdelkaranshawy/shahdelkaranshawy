@@ -13,6 +13,7 @@ I design and build AI-powered systems for real-world decision-making, combining:
 Focused on scalable, explainable AI applications in business contexts.
 
 ## Featured projects
+Focus: Building AI-driven decision systems combining LLMs, knowledge graphs, and predictive analytics.
 
 | Repository | Description |
 |------------|-------------|
