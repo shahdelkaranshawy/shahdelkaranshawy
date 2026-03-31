@@ -3,12 +3,14 @@
 Business Informatics graduate focused on **applied AI**, **data science**, and **LLM systems**.
 
 ## What I do
+Applied AI & Data Science | LLM Systems • RAG • Knowledge Graphs  
 
-I build AI-powered systems that combine:
+I design and build AI-powered systems for real-world decision-making, combining:
+- Large Language Models (LLMs) & agent workflows  
+- Knowledge graphs & structured enterprise data  
+- Machine learning & predictive analytics  
 
-- Large language models (LLMs) and agent workflows  
-- Knowledge graphs and structured enterprise data  
-- Classical machine learning and decision-support dashboards  
+Focused on scalable, explainable AI applications in business contexts.
 
 ## Featured projects
 
