@@ -17,9 +17,9 @@ Focus: Building AI-driven decision systems combining LLMs, knowledge graphs, and
 
 | Repository | Description |
 |------------|-------------|
+| [predictive-dashboard-thesis](https://github.com/shahdelkaranshawy/predictive-dashboard-thesis) | Bachelor thesis: forecasting + executive dashboard |
 | [ai-sales-assistant](https://github.com/shahdelkaranshawy/ai-sales-assistant) | LLM + knowledge graph sales assistant (docs & architecture) |
 | [llm-proposal-composer](https://github.com/shahdelkaranshawy/llm-proposal-composer) | LangGraph + Streamlit proposal generation |
-| [predictive-dashboard-thesis](https://github.com/shahdelkaranshawy/predictive-dashboard-thesis) | Bachelor thesis: forecasting + executive dashboard |
 | [ml-churn-prediction](https://github.com/shahdelkaranshawy/ml-churn-prediction) | Churn classification + regression mini-projects |
 
 ## Tech stack
